@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Racconisprogrammer&theme=dark" alt="GitHub Streak" /></a>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Racconisprogrammer&theme=dark" alt="GitHub Streak" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Racconisprogrammer&layout=compact&theme=vision-friendly-dark" />
